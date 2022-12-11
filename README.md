@@ -1,2 +1,2 @@
-# Planes-Object-Detection-YOLO-
+# Planes Object Detection - Deep Learning
 Planes Images Object Detection with Deep Learning YOLO Algorithm
